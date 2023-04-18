@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=%EC%B0%B8&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%B0%B8&width=435&lines=%22+Heiio%2C+Worid!+%22)](https://git.io/typing-svg)
 <!--
 **heiioworid040/heiioworid040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
