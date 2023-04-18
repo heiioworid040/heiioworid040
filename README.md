@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&size=500&pause=1000&color=000000&center=%EC%B0%B8&vCenter=%EC%B0%B8&repeat=%EC%B0%B8&width=435&lines=%22+Heiio%2C+Worid!+%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&size=77&pause=1000&color=000000&center=%EC%B0%B8&vCenter=%EC%B0%B8&repeat=%EC%B0%B8&width=800&height=150&lines=%22+Heiio%2C+Worid!+%22)](https://git.io/typing-svg)
 
 <!--
 **heiioworid040/heiioworid040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
