@@ -19,6 +19,5 @@
   <img src="https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery&logoColor=white">
 <br><br><br><br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heiioworid040)](https://solved.ac/heiioworid040)
-<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heiioworid&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
